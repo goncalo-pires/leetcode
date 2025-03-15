@@ -55,7 +55,8 @@ The solutions in this repository are organized by difficulty level: **Easy**, **
 | Find Players With Zero or One Losses     | Medium     |
 | Remove Letter To Equalize Frequency      | Easy       |
 | Number of Common Factors                 | Easy       |
-| Number of Valid Clock Times              | Hard       |
+| Number of Valid Clock Times              | Easy       |
+| Make The String Great                    | Easy       |
 
 ## LeetCode Profile
 
