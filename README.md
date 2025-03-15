@@ -5,6 +5,7 @@ This repository contains my solutions to various LeetCode challenges. The purpos
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Challenges](#challenges)
+- [LeetCode Profile](#leetcode-profile)
 
 ## Technologies Used
 
@@ -55,3 +56,7 @@ The solutions in this repository are organized by difficulty level: **Easy**, **
 | Remove Letter To Equalize Frequency      | Easy       |
 | Number of Common Factors                 | Easy       |
 | Number of Valid Clock Times              | Hard       |
+
+## LeetCode Profile
+
+You can view my LeetCode profile [here](https://leetcode.com/pirexpirex/) to see my progress, rankings, and more challenges that I have solved. 
