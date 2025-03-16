@@ -17,47 +17,6 @@ This repository contains my solutions to various LeetCode challenges. The purpos
 
 The solutions in this repository are organized by difficulty level: **Easy**, **Medium**, and **Hard**.
 
-| Challenge Name                           | Difficulty |
-|------------------------------------------|------------|
-| Two Sum                                  | Easy       |
-| Palindrome Number                        | Easy       |
-| Longest Common Prefix                    | Easy       |
-| Maximum Subarray                         | Medium     |
-| Climbing Stairs                          | Easy       |
-| Simplify Path                            | Medium     |
-| Validate Binary Search Tree              | Medium     |
-| Best Time to Buy and Sell Stock          | Easy       |
-| Largest Number                           | Medium     |
-| Rotate Array                             | Medium     |
-| House Robber                             | Medium     |
-| Reverse Linked List                      | Easy       |
-| Contains Duplicate                       | Easy       |
-| Summary Ranges                           | Easy       |
-| Missing Number                           | Easy       |
-| Move Zeroes                              | Easy       |
-| Counting Bits                            | Easy       |
-| Reverse String                           | Easy       |
-| Ransom Note                              | Easy       |
-| Contiguous Array                         | Medium     |
-| Maximum Product of Three Numbers         | Easy       |
-| Maximum Average Subarray I               | Easy       |
-| Jewels and Stones                        | Easy       |
-| Linked List Components                   | Medium     |
-| Middle of the Linked List                | Easy       |
-| Squares of a Sorted Array                | Easy       |
-| Max Consecutive Ones III                 | Medium     |
-| Next Greater Node In Linked List         | Medium     |
-| Kids With the Greatest Number of Candies | Easy       |
-| Running Sum of 1d Array                  | Easy       |
-| Maximum Number of Eaten Apples           | Medium     |
-| Check if the Sentence Is Pangram         | Easy       |
-| K Radius Subarray Averages               | Medium     |
-| Find Players With Zero or One Losses     | Medium     |
-| Remove Letter To Equalize Frequency      | Easy       |
-| Number of Common Factors                 | Easy       |
-| Number of Valid Clock Times              | Easy       |
-| Make The String Great                    | Easy       |
-
 ## LeetCode Profile
 
 You can view my LeetCode profile [here](https://leetcode.com/pirexpirex/) to see my progress, rankings, and more challenges that I have solved. 
